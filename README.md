@@ -20,11 +20,7 @@ This project is a **Streamlit web app** that recommends indoor or outdoor hobbie
 
 ## 🛠️ Installation
 
-Clone the repository:
-```bash
-git clone https://github.com/your-username/weather-hobby-recommender.git
-cd weather-hobby-recommender
-```
+
 
 Install dependencies:
 ```bash
